@@ -1,0 +1,3 @@
+D:/starcraft/Warcraft/WarCraft-Siyana/code/build/CMakeFiles/warcraft.dir
+D:/starcraft/Warcraft/WarCraft-Siyana/code/build/CMakeFiles/edit_cache.dir
+D:/starcraft/Warcraft/WarCraft-Siyana/code/build/CMakeFiles/rebuild_cache.dir
